@@ -1,0 +1,10 @@
+name: aws_select_to_export_smsl
+channels:
+- conda-forge
+- defaults
+dependencies:
+- python
+- xarray
+- panel
+- climakitae
+

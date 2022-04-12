@@ -1,6 +1,7 @@
 name: aws_select_to_export_smsl
 channels:
 - conda-forge
+- anaconda
 - defaults
 dependencies:
 - python=3.8

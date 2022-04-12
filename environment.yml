@@ -13,4 +13,5 @@ dependencies:
 - aiohttp
 - requests
 - proj
+- ipykernel
 

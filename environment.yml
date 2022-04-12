@@ -4,8 +4,12 @@ channels:
 - defaults
 dependencies:
 - python
+- gcc
+- gxx
+- geos
 - xarray
 - panel
 - aiohttp
 - requests
+- proj
 

@@ -1,7 +1,7 @@
 # cal_adapt_notebooks
 
 ## AWS SageMaker Studio Lab
-You can sign up for SageMaker Studio Lab and use it for free without an AWS account. You can run for 4 hours with GPU or 12 hours with CPU and then logout and log back in for another session. Your data and notebooks are persisted. After clicking the launch button below, choose "download whole repo" and then "build conda environment" when prompted. On the lefthand navigator bar, select the "Extensions" icon and “Enable Extension Manager” and enable it. Then enter this into the search box: @pyviz/jupyterlab_pyviz and install this extension.
+You can sign up for SageMaker Studio Lab and use it for free without an AWS account. You can run for 4 hours with GPU or 12 hours with CPU and then logout and log back in for another session. Your data and notebooks are persisted. After clicking the launch button below, choose "download whole repo" and then "build conda environment" when prompted. On the lefthand navigator bar, select the "Extensions" icon and “Enable Extension Manager” and enable it. Then enter: **@pyviz/jupyterlab_pyviz** into the search box and install this extension.
 
 Now, open the "select_to_export.ipynb" notebook.  Click-Enter to run each row and wait a moment to see the results of each line before proceeding to the next. The line marker should change to a number when it's successfully run that line, ie "[5]" means that it has run line 5.
 

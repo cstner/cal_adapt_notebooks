@@ -1,7 +1,9 @@
 # cal_adapt_notebooks
 
 ## AWS SageMaker Studio Lab
-You can sign up for SageMaker Studio Lab and use it for free without an AWS account. You can run for 4 hours with GPU or 12 hours with CPU and then logout and log back in for another session. Your data and notebooks are persisted. After clicking the launch button below, choose "download whole repo" but DO NOT "build conda environment" when prompted (it will fail). Open a Terminal, and paste this command:
+You can sign up for SageMaker Studio Lab and use it for free without an AWS account. You can run for 4 hours with GPU or 12 hours with CPU and then logout and log back in for another session. Your data and notebooks are persisted. After clicking the launch button below, choose "download whole repo" and click OK to the warning that a conda environment file was not found. 
+
+Open a Terminal, and paste this command:
 ```
 conda create -n cal_adapt_notebooks --file https://raw.githubusercontent.com/pangeo-data/pangeo-docker-images/2021.12.02/pangeo-notebook/conda-linux-64.lock
 ```

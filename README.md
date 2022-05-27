@@ -9,7 +9,7 @@ conda create -n cal_adapt_notebooks --file https://raw.githubusercontent.com/pan
 ```
 conda activate cal_adapt_notebooks
 ```
-Now, open the "select_to_export.ipynb" notebook.  Click-Enter to run each row and wait a moment to see the results of each line before proceeding to the next. The line marker should change to a number when it's successfully run that line, ie "[5]" means that it has run line 5.
+Now, open the "select_to_export.ipynb" notebook. In the footer of the SMSL window, select the "cal_adapt_notebooks:Python" kernel. Click-Enter to run each row and wait a moment to see the results of each line before proceeding to the next. The line marker should change to a number when it's successfully run that line, ie "[5]" means that it has run line 5.
 
 <a href="https://studiolab.sagemaker.aws/import/github/https://github.com/cstner/cal_adapt_notebooks/blob/main/select_to_export.ipynb" rel="nofollow"><img src="https://camo.githubusercontent.com/8c5378ff3bf6f71a57442940234293bd63c7ed2418d64f74f2bda3dc6f2904ed/68747470733a2f2f73747564696f6c61622e736167656d616b65722e6177732f73747564696f6c61622e737667" alt="Open In SageMaker Studio Lab" data-canonical-src="https://studiolab.sagemaker.aws/studiolab.svg" style="max-width: 100%;"></a></p>
 

@@ -1,7 +1,10 @@
 # cal_adapt_notebooks
 
 ## AWS SageMaker Studio Lab
-You can sign up for SageMaker Studio Lab and use it for free without an AWS account. You can run for 4 hours with GPU or 12 hours with CPU and then logout and log back in for another session. Your data and notebooks are persisted. After clicking the launch button below, choose "download whole repo" and click OK to the warning that a conda environment file was not found. 
+You can sign up for SageMaker Studio Lab and use it for free without an AWS account. You can run for 4 hours with GPU or 12 hours with CPU and then logout and log back in for another session. Your data and notebooks are persisted. 
+
+## Setting up the AWS SageMaker Studio Lab environment
+After clicking the launch button below, choose "download whole repo" and click OK to the warning that a conda environment file was not found. 
 
 Open a Terminal, and paste this command:
 ```
